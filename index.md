@@ -39,11 +39,28 @@ By making rovers more affordable you can increase the involvement in science and
 Overall Martian based due to the excitement around Mars exo-planetary exploration
 
 ### Requirement Specifications
+Construction:
+Must be built on frame that is lightweight and sturdy (mid-high grade aluminum for initial trial)
+Electronics must be secured and insulated against working environment
+All moving parts must be insulated against working environment
 
+Testing:
+Complete unit must pass obstacle course
+Complete unit and individual parts must survive shake and temperature testing
+Complete unit and individual parts must be radiation hardened
+
+Operations:
+Operator must be able to control unit from Mission Operations Control
+Operator must be able to receive and display housekeeping data
+
+Science Data:
+Can be able to store data till able to transmit
+“Hot Swapping” modules and instruments without damage or software glitches
+
+Communications:
+Must be able to communicate with MOC
 
 ### Project Budget and Supports
-
-
 For budget A, we are dealing with time constraints over a money constraints.
 - buying everything prebuilt and brand new from the manufacture
 
