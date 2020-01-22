@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Mars Rover Project
 
-You can use the [editor on GitHub](https://github.com/SeniorProjectTwo/marsrover/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Problem/Opportunity Background and Broad Question
+The mars rover has existed since the year of 2003.
+The nature of this opportunity exists so that we are able to explore the unknown areas of Mars.
+Can help researchers answer a wider range of questions.
+NASA can take advantage of this opportunity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Idea Justification
+Potential impact is proving that an efficient rover can be created on a budget to increase productivity.
+The idea is to mass produce with task specific rovers to cover vast areas and provide faster research. 
+Britain's Beagle 2 lander also did Mars exploration at 1% of Curiosity’s 2.5 billion dollar cost. This rover was small and equipped with instruments needed for Mars research. 
+In 2004, Burt Rutan's "SpaceShipOne" from Scaled Composites was the first non-governmental, non-military crewed spacecraft. 
+Our Rover concept, much like SpaceShipOne, presents a way to prove that cost and governments do not have the be the limiting factor in exoplanet surface research.
 
-### Markdown
+### Assumptions and Constraints
+Materials are batteries (at least 12V), connecting wires, wheels, an aluminum frame, a microcontroller, motor, power distribution board, and solar panels (optional). 
+We are our own financial resource for this project which can be a limitation. 
+We can figure out ways to get funding or support from other organizations.
+Many of the rovers that get sent into space don’t make there attended location. 
+Not only does the rover have to depend on programing and the materials put into it but also the weather on the day the rover is sent into space and the weather on Mars (Rovers can only be sent up when Mars’s orbit it aligned with planet Earth’s orbit).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###  Propose Multiple Solutions
+Pros:
+Cheaper to build
+Easier to construct
+Less time spent on building
+Materials are easy to find
 
-```markdown
-Syntax highlighted code block
+Cons:
+Weak material
+Open System
+Materials may take longer to ship
+Self Financed
 
-# Header 1
-## Header 2
-### Header 3
+### Project Proposal
+This project will present a new way of making affordable rover
+By making rovers more affordable you can increase the involvement in science and engineering
+Overall Martian based due to the excitement around Mars exo-planetary exploration
 
-- Bulleted
-- List
+### Requirement Specifications
 
-1. Numbered
-2. List
+### Project Budget and Supports
 
-**Bold** and _Italic_ and `Code` text
+### Initial Project Schedule
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SeniorProjectTwo/marsrover/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
