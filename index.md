@@ -40,7 +40,15 @@ Overall Martian based due to the excitement around Mars exo-planetary exploratio
 
 ### Requirement Specifications
 
+
 ### Project Budget and Supports
+
+
+For budget A, we are dealing with time constraints over a money constraints.
+- buying everything prebuilt and brand new from the manufacture
+
+For budget B, we are dealing with money constraints over a time constraints.
+- The estimated cost of the project is lower due to the ability to use currently owned parts and there is no cost to the programming of the Rover, nor the programmers.
 
 ### Initial Project Schedule
 
